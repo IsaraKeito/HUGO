@@ -1,13 +1,13 @@
 ---
-title: About
-description: Hugo, the world's fastest framework for building websites
-date: '2019-02-28'
+title: 说明书
+description: 欢迎来到海底世界！
+date: '2022-11-01'
 aliases:
   - about-us
   - about-hugo
   - contact
 license: CC BY-NC-ND
-lastmod: '2020-10-09'
+lastmod: '2022-11-01'
 menu:
     main: 
         weight: -90
@@ -15,20 +15,30 @@ menu:
             icon: user
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 
-Hugo makes use of a variety of open source projects including:
+## 关于本站
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+### 介绍
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+#### 关于站名
+- *「白花恋诗」* 是空之轨迹里杰尼丝王立学院文化祭中主角参演的一部舞台剧，也是空之轨迹FC中第二章的章节名。
+- 其实一开始用这个站名，只是想测试一下看看能不能顺利替换掉默认站名，但是一时之间又想不到换一个什么名字好，正好随机到了空轨中卢安的地图BGM，大脑第一瞬间跳出来的画面就是我操纵主角在学院里乱逛。但想想这样也不错，因为整个空之轨迹的地图里，我最喜欢的就是本章学院所在的海港城市卢安，因为它有漂亮的海和海滩呀！
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+#### 关于内容
+- 你会在这里看到很多废话，没有逻辑，没有顺序。
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+### 装修进度
+- 因为技术和理解能力的限制，装修的进度应该是看哪天试错的时候能误打误撞解锁新模块吧。
+- 希望我早日把网站图标换掉。（许愿）
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+
+## 关于我
+- 叫我鲨鲨的话，我会很快乐，或者别的什么，总之叫我我就会很快乐！（小狗快乐.gif）
+- 之前的ID是笋笋鲨骑士，来源于我从小就很喜欢的酸笋鲨鱼汤，之后的ID随心随意随天气地改。
+- 但本人自己是想要在荷叶和鲨鱼两个物种之间跳跃切换的奇怪生物。
+- 并没有什么技能，也没有什么耐心。如果认识我的话，大概已经发现我讲话非常跳跃，并且一段时间的高强度叭叭叭里会窜出来好多个不同的话题，说话说着说着就跑题十万八千里。没有持续很久喜欢的东西，大概就是这里碰碰，那里摸摸的模式。
+
+
+## 其他
+- 欢迎和我交换友链！非常、非常欢迎！
+- 未完待续！
