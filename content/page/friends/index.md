@@ -51,11 +51,13 @@ link.json格式为：
     }
 ]
 ```
+欢迎和我交换友链，你可以通过长毛象/邮件找到我！
+
+这是我的友链格式↓
 
 
-
-> 名称：小球飞鱼  
-> 简介：我们会一起遇见鲸鱼吗？  
-> 地址：[https://mantyke.icu/](https://mantyke.icu/)  
-> 头像：[https://cdn.jsdelivr.net/gh/Mantyke/photo@master/star_min.png](https://cdn.jsdelivr.net/gh/Mantyke/photo@master/star_min.png)
+> 名称：白花恋诗  
+> 简介：把最棒的吊桥效应献给你   
+> 地址：[博客链接](https://trails-of-isara.vercel.app/)  
+> 头像：[头像连接](https://trails-of-isara.vercel.app/img/avatar_hu48f64c8d86fa41173b12f4da09770394_14255_300x0_resize_box_3.png)
 
