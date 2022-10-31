@@ -1,13 +1,13 @@
 ---
-title: 说明书
+title: About
 description: 欢迎来到海底世界！
-date: '2022-11-01'
+date: '2022-10-27'
 aliases:
   - about-us
   - about-hugo
   - contact
 license: CC BY-NC-ND
-lastmod: '2022-11-01'
+lastmod: '2022-10-27'
 menu:
     main: 
         weight: -90
