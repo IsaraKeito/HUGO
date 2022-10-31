@@ -188,17 +188,17 @@ menu:
               icon: home
 
     social:
-        - identifier: github
-          name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+        - identifier: Mastodon
+          name: Mastodon
+          url: https://mstdn.social/@Isara
           params:
-              icon: brand-github
+              icon: mastodom
 
-        - identifier: twitter
-          name: Twitter
-          url: https://twitter.com
+        - identifier: E-Mail
+          name: E-Mail
+          url: isarakeito@gmail.com
           params:
-              icon: brand-twitter
+              icon: mail
 
 related:
     includeNewer: true
