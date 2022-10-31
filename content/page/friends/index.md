@@ -1,6 +1,6 @@
 ---
 title: "Friends"
-date: 2022-10-27
+date: 2019-05-28
 description: 
 slug: "links"
 layout: links
