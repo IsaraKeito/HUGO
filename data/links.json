@@ -1,8 +1,14 @@
 [
+    {
+        "title": "小球飞鱼",
+        "website": "https://mantyke.icu/",
+        "image": "mantyke.png",
+     "description": "我们会一起遇见鲸鱼吗？"
+    },
 	{
-        "title": "小鱼钓狗",
-        "website": "https://camellia34.one/",
-        "image": "camellia34.png",
-		"description": "曾有十二只白鹭飞过秋天的湖泊"
+        "title": "友情链接2",
+        "website": "",
+        "image": "",
+     "description": ""
     }
 ]
