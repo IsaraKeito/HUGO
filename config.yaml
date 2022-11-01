@@ -1,18 +1,18 @@
 baseurl: https://example.com
-languageCode: zh-cn
-theme: hugo-theme-stack
+languageCode: en-us
+theme: stack
 paginate: 5
 title: 白花恋诗
 
 # Change it to your Disqus shortname before using
-disqusShortname: hugo-theme-stack
+disqusShortname: stack
 
 # GA Tracking ID
 googleAnalytics:
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk
-DefaultContentLanguage: zh-cn
+DefaultContentLanguage: en
 
 # Set hasCJKLanguage to true if DefaultContentLanguage is in [zh-cn ja ko]
 # This will make .Summary and .WordCount behave correctly for CJK languages.
@@ -27,10 +27,10 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon:
+    favicon: /img/favicon.png
 
     footer:
-        since: 2020
+        since: 2022
         customText:
 
     dateFormat:
@@ -50,7 +50,7 @@ params:
         toc: true
         readingTime: true
         license:
-            enabled: false
+            enabled: true
             default: Licensed under CC BY-NC-SA 4.0
 
     comments:
@@ -132,7 +132,7 @@ params:
             host:
             id:
     widgets:
-        enabled:true
+        enabled:
             - search
             - toc
             - categories
@@ -140,10 +140,10 @@ params:
             - tag-cloud
 
 
-    archives:
+        archives:
             limit: 5
 
-    tagCloud:
+        tagCloud:
             limit: 10
 
     opengraph:
@@ -179,7 +179,7 @@ params:
 menu:
     main:
         - identifier: home
-          name: 首页%关于
+          name: Home
           url: /
           weight: -100
           params:
@@ -188,17 +188,17 @@ menu:
               icon: home
 
     social:
-        - identifier: github
-          name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+        - identifier: Mastodon
+          name: Mastodon
+          url: https://mstdn.social/@Isara
           params:
-              icon: brand-github
+              icon: mastodom
 
-        - identifier: twitter
-          name: Twitter
-          url: https://twitter.com
+        - identifier: E-Mail
+          name: E-Mail
+          url: isarakeito@gmail.com
           params:
-              icon: brand-twitter
+              icon: mail
 
 related:
     includeNewer: true
