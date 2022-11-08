@@ -1,0 +1,34 @@
+---
+label: 周记|10月末和11月初的交接棒
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: image
+  label: image
+- type: text
+  name: math
+  label: math
+- type: text
+  name: license
+  label: license
+- type: boolean
+  name: hidden
+  label: hidden
+- type: boolean
+  name: comments
+  label: comments
+- type: list
+  name: tags
+  label: tags
+- type: list
+  name: categories
+  label: categories
