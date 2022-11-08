@@ -96,10 +96,10 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
     --article-font-size: 1.6rem;
 
     @include respond(md) {
-        --article-font-size: 1.65rem; //字号
+        --article-font-size: 1.50rem; //字号
     }
 
-    --article-line-height: 1.6; //行距
+    --article-line-height: 1.85; //行距
 }
 
 /*
