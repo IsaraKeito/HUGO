@@ -5,5 +5,5 @@ slug: ""
 image: 
 style:
     background: ""
-    color: "#2a9d8f"
+    color: "#000080"
 ---
