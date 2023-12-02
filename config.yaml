@@ -1,4 +1,4 @@
-baseurl: https://example.com
+habaseurl: https://trails-of-isara.vercel.app
 languageCode: en-us
 theme: stack
 paginate: 5
