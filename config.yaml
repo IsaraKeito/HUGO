@@ -1,4 +1,4 @@
-habaseurl: https://trails-of-isara.vercel.app
+baseurl: https://trails-of-isara.vercel.app
 languageCode: en-us
 theme: stack
 paginate: 5
@@ -27,7 +27,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon: /img/icon.png
+    favicon: /img/favicon.png
 
     footer:
         since: 2022
