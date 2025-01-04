@@ -10,3 +10,11 @@
     {{- $customScript := . | js.Build $opts -}}
     <script type="text/javascript" src="{{ $customScript.RelPermalink }}" defer></script>
 {{- end -}}
+
+#back-to-top {
+    background-color: var(--body-background);
+  }
+
+  #back-to-top:hover:before {
+    border-color: var(--accent-color);
+  }
