@@ -255,3 +255,16 @@ blockquote.quote {
 	.db-card-comment{display: none;}
 }
 /* db-card -------- end */
+
+
+//APlayer
+/* 修改播放器背景 */
+.aplayer {
+    background: #99ccb3 !important;
+    border-radius: 8px;
+}
+
+/* 修改播放按钮颜色 */
+.aplayer .aplayer-play .aplayer-icon {
+    color: #1b3729 !important;
+}
