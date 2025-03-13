@@ -301,35 +301,12 @@ blockquote.quote {
     background: #77aa99;
 }
 
-.post-content p:has(> img:nth-of-type(2)) {
-    column-count: 2;
-    column-gap: 8px;
-    margin: 6px 0;
+#post-content {
+.post-content p:has(> img:nth-child(2)){column-count:2;column-gap:8px;margin:6px 0;}
+.post-content p:has(> img:nth-child(3)){column-count:3;}
+.post-content p:has(> img:nth-child(4)){column-count:4;}
+.post-content p:has(> img:nth-child(5)){column-count:5;}
+.post-content p:has(> img:nth-child(6)){column-count:4;}
+.post-content p:has(> img:nth-child(2)) img{display:inherit;}
+.post-content p:has(> img:nth-child(6)) img{margin-bottom:8px;}
 }
-
-.post-content p:has(> img:nth-of-type(3)) {
-    column-count: 3;
-}
-
-.post-content p:has(> img:nth-of-type(4)) {
-    column-count: 4;
-}
-
-.post-content p:has(> img:nth-of-type(5)) {
-    column-count: 5;
-}
-
-.post-content p:has(> img:nth-of-type(6)) {
-    column-count: 4;
-}
-
-/* 确保图片正确显示 */
-.post-content p:has(> img:nth-of-type(2)) img {
-    display: inline-block;
-}
-
-/* 让6张图片的情况有底部间距 */
-.post-content p:has(> img:nth-of-type(6)) img {
-    margin-bottom: 8px;
-}
-
