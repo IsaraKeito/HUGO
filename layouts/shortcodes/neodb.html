@@ -38,26 +38,4 @@
 
         <!-- 根据状态决定前后缀 -->
         {{ if eq $shelfType "wishlist" }}{{ $prefix = "想" }}
-        {{ else if eq $shelfType "complete" }}{{ $suffix = "过" }}
-        {{ else if eq $shelfType "progress" }}{{ $prefix = "在" }}
-        {{ else if eq $shelfType "dropped" }}{{ $prefix = "不" }}{{ $suffix = "了" }}
-        {{ end }}
-
-        {{ $displayText = print $prefix $action $suffix }}
-
-        <!-- 唯一 ID -->
-        {{ $uniqueId := (print "coverImage-" $itemUuid) }}
-
-        <div class="db-card">
-            <div class="db-card-subject">
-                <div class="db-card-post">
-                    <!-- 图片占位 -->
-                    <img src="" alt="Placeholder Image" 
-                         style="max-width: 100%; height: auto;" 
-                         id="{{ $uniqueId }}">
-                </div>
-                <div class="db-card-content">
-                    <div class="db-card-title">
-                        <a href="{{ $dbUrl }}" class="cute" target="_blank" rel="noreferrer">{{ $dbFetch.item.title }}</a>
-                    </div>
-                    <div class="db-card-comment
+        {{ else if eq $s
