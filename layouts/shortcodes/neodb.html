@@ -3,7 +3,7 @@
 {{ $itemUuid := "" }}
 {{ $authToken := "" }} <!-- 请替换为你的 API Personal Token -->
 
-<!-- 判断是否为开发模式 -->
+<!-- 判断是否为生产环境 -->
 {{ if eq (hugo.Environment) "production" }}
 
     <!-- 解析 item_uuid -->
@@ -36,7 +36,7 @@
         {{ else if eq $category "game" }}{{ $action = "玩" }}
         {{ end }}
 
-        <!-- 根据状态决定前缀和后缀 -->
+        <!-- 根据状态决定前后缀 -->
         {{ if eq $shelfType "wishlist" }}{{ $prefix = "想" }}
         {{ else if eq $shelfType "complete" }}{{ $suffix = "过" }}
         {{ else if eq $shelfType "progress" }}{{ $prefix = "在" }}
@@ -51,8 +51,8 @@
         <div class="db-card">
             <div class="db-card-subject">
                 <div class="db-card-post">
-                    <img src="" <!-- 占位图片链接 -->
-                         alt="Placeholder Image" 
+                    <!-- 图片占位 -->
+                    <img src="" alt="Placeholder Image" 
                          style="max-width: 100%; height: auto;" 
                          id="{{ $uniqueId }}">
                 </div>
@@ -60,65 +60,4 @@
                     <div class="db-card-title">
                         <a href="{{ $dbUrl }}" class="cute" target="_blank" rel="noreferrer">{{ $dbFetch.item.title }}</a>
                     </div>
-                    <div class="db-card-comment">
-                        {{ $dbFetch.created_time | time.Format "2006-01-02" }} {{ $displayText }}
-                        <span style="color: #6b0f0f;">#{{ $category | title }}</span>
-                        {{ $comment := trim .Inner " \n\r" }}
-                        {{ if $comment }}
-                        <p>{{ $comment | safeHTML }}</p>
-                        {{ else }}
-                        <p>{{ replace $dbFetch.comment_text "\n" "<br>" | safeHTML }}</p>
-                        {{ end }}
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <script>
-            document.addEventListener('DOMContentLoaded', function() {
-                const img = document.getElementById('{{ $uniqueId }}');
-                const newImgSrc = '{{ $dbFetch.item.cover_image_url }}';
-
-                if (newImgSrc) {
-                    const tempImg = new Image();
-                    tempImg.src = newImgSrc;
-                    tempImg.onload = function() {
-                        img.src = newImgSrc;
-                    };
-                }
-            });
-        </script>
-
-    {{ else }}
-        <p style="text-align: center;"><small>获取数据失败，请检查 API 是否有效。</small></p>
-    {{ end }}
-
-{{ else }}
-
-    <!-- 开发模式下显示占位图，并正常显示自定义评论内容 -->
-    <div class="db-card">
-        <div class="db-card-subject">
-            <div class="db-card-post">
-                <img src="" <!-- 占位图片链接 -->
-                     alt="开发模式占位图片" 
-                     style="max-width: 100%; height: auto;">
-            </div>
-            <div class="db-card-content">
-                <div class="db-card-title">
-                    <a href="{{ $dbUrl }}" class="cute" target="_blank" rel="noreferrer">示例标题</a>
-                </div>
-                <div class="db-card-comment">
-                    2025-03-04 想读
-                    <span style="color: #6b0f0f;">#示例分类</span>
-                    {{ $comment := trim .Inner " \n\r" }}
-                    {{ if $comment }}
-                    <p>{{ $comment | safeHTML }}</p>
-                    {{ else }}
-                    <p>这是开发模式下的占位数据。</p>
-                    {{ end }}
-                </div>
-            </div>
-        </div>
-    </div>
-
-{{ end }} <!-- 结束环境判断 -->
+                    <div class="db-card-comment
