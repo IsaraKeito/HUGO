@@ -1,8 +1,7 @@
 {{ $dbUrl := .Get 0 }}
 {{ $apiUrl := "https://neodb.social/api/me/shelf/item/" }}
 {{ $itemUuid := "" }}
-{{ $authToken := "	Qe8cYBAcEX8JldjpAIDy7OurCWHnBRV3VJuiOE7ELlPnw5gqmSjnQODsLw
-" }} <!-- 请替换为你的 API Personal Token -->
+{{ $authToken := "	Qe8cYBAcEX8JldjpAIDy7OurCWHnBRV3VJuiOE7ELlPnw5gqmSjnQODsLw" }} <!-- 请替换为你的 API Personal Token -->
 
 <!-- 判断是否为开发模式 -->
 {{ if eq (hugo.Environment) "production" }}
