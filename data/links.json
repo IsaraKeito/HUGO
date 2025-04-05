@@ -142,5 +142,11 @@
         "website": "https://hirate3.wordpress.com/",
         "image": "hirate3.png",
      "description": "欢迎访问虚拟仓库"
+	},
+	{
+        "title": "漫游者迷路中",
+        "website": "https://blog-sooty-beta.vercel.app/",
+        "image": "anan.png",
+     "description": "记生活迷思，做吟游诗人"
 	}
 ]
