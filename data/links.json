@@ -160,5 +160,11 @@
         "website": "https://solanalifeblog.vercel.app/",
         "image": "solanalifeblog.png",
      "description": "在世一日"
+	},
+	{
+        "title": "Meaningless Nothingness",
+        "website": "https://xyzxy.me",
+        "image": "xyzxy.png",
+     "description": "桂棹兮兰桨，击空明兮溯流光"
 	}
 ]
