@@ -57,21 +57,4 @@ a {
         color: var(--body-text-color);
     }
 }
-.pre-next {
-  display: flex;
-  text-align: center;
-  justify-content: space-between;
-  align-items: center;
-}
 
-.pre-next-btn {
-  font-size: 1rem;
-  transition: font-size 0.3s ease;
-  /* 添加平滑过渡效果 */
-}
-/* 手机端适配：布局变为单列 */
-@media (max-width: 768px) {
-    .pre-next-btn {
-    font-size: 3.5vw;
-    }
-}
