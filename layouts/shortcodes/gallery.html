@@ -1,0 +1,6 @@
+{{ $cols := len .Params }}
+<div class="gallery gallery-cols-{{ $cols }}">
+  {{ range .Params }}
+    <img src="{{ . | safeURL }}" loading="lazy" />
+  {{ end }}
+</div>
