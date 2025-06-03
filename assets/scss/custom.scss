@@ -377,3 +377,54 @@ blockquote.quote {
         margin: 0.8rem 0.5rem;
     }
 }
+
+.gallery {
+  display: grid;
+  gap: 8px;
+  margin: 1em 0;
+
+  img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease;
+  }
+
+  img:hover {
+    transform: scale(1.03);
+  }
+}
+
+// 响应式网格列数
+.gallery-cols-1 {
+  grid-template-columns: 1fr;
+}
+.gallery-cols-2 {
+  grid-template-columns: repeat(2, 1fr);
+}
+.gallery-cols-3 {
+  grid-template-columns: repeat(3, 1fr);
+}
+.gallery-cols-4 {
+  grid-template-columns: repeat(4, 1fr);
+}
+.gallery-cols-5 {
+  grid-template-columns: repeat(5, 1fr);
+}
+
+// 小屏幕自适应
+@media (max-width: 768px) {
+  .gallery-cols-3,
+  .gallery-cols-4,
+  .gallery-cols-5 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+@media (max-width: 480px) {
+  .gallery {
+    grid-template-columns: 1fr !important;
+  }
+}
+
