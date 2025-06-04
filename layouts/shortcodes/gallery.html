@@ -1,6 +1,12 @@
-{{ $cols := len .Params }}
-<div class="gallery gallery-cols-{{ $cols }}">
-  {{ range .Params }}
-    <img src="{{ . | safeURL }}" loading="lazy" />
-  {{ end }}
-</div>
+.gallery {
+  display: grid;
+  gap: 8px;
+  margin: 1em 0;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+
+  img {
+    width: 100%;
+    border-radius: 8px;
+    object-fit: cover;
+  }
+}
