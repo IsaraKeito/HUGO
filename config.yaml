@@ -188,6 +188,13 @@ menu:
               newTab: flase
               icon: home
 
+    social:
+        - identifier: Mastodon
+          name: Mastodon
+          url: https://mstdn.social/@Isara
+          params:
+              icon: mastodom
+
         - identifier: E-Mail
           name: E-Mail
           url: isarakeito@gmail.com
