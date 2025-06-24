@@ -229,6 +229,21 @@ blockquote.quote {
   }
 }
 
+// 鼠标悬停放大图片
+.hover-zoom {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  cursor: zoom-in;
+  display: inline-block;
+  border-radius: 6px; /* 可选：让图片更柔和 */
+}
+
+.hover-zoom:hover {
+  transform: scale(1.5);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.25);
+  z-index: 10; /* 防止被其他元素遮挡 */
+}
+
+
 // APlayer
 /* 播放器外层容器 */
 #aplayer-wrapper {
