@@ -121,13 +121,13 @@
     if (expanded && !ap) {
       ap = new APlayer({
         container: document.getElementById('aplayer-inner'),
-        fixed: true,
-        mini: false,
+        fixed: false,   // 非固定模式，这样会显示完整信息
+        mini: false,   // 关闭迷你模式，显示完整播放器界面
         autoplay: false,
         listFolded: false,
         listMaxHeight: 120,
         lrcType: 0,
-        audio: [
+        audio: [ /* 你的歌单 */ 
           {
             name: 'LOST HARMONY AMONG PEOPLE',
             artist: 'Falcom Sound Team J.D.K.',
