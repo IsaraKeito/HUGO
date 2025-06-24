@@ -97,6 +97,11 @@
         left: 2.5vw;
       }
     }
+    /* 播放器展开时歌单背景色 */
+  #aplayer-container.aplayer-expanded .aplayer-list {
+    background-color: #c7e1e2; /* 半透明深蓝 */
+    color: #333333; /* 改变文字颜色以确保可读 */
+  }
   </style>
 
   <!-- 播放器HTML结构 -->
@@ -191,3 +196,26 @@
 
 
 </footer>
+<div id="copyright-bar">
+  © 2022-2025 深海鱼拒绝触礁 · <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener">CC BY-NC-SA 4.0</a> · 博客作者保留对文章内容的所有权利，未经许可禁止转载。
+</div>
+
+<style>
+  #copyright-bar {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: #c7e1e2;  /* 你喜欢的底色 */
+    color: #333;
+    text-align: center;
+    font-size: 0.9em;
+    padding: 6px 12px;
+    box-shadow: 0 -2px 5px rgba(0,0,0,0.1);
+    z-index: 9999;
+  }
+  /* 给页面底部留空避免被遮挡 */
+  body {
+    padding-bottom: 32px; /* 高度根据版权条高度调整 */
+  }
+</style>
