@@ -1,139 +1,193 @@
 {{- $ThemeVersion := "3.2.0" -}}
 <footer class="site-footer">
-  
-{{$scratch := newScratch}}
-{{ range (where .Site.Pages "Kind" "page" )}}
+
+  {{$scratch := newScratch}}
+  {{ range (where .Site.Pages "Kind" "page") }}
     {{$scratch.Add "total" .WordCount}}
-{{ end }}
+  {{ end }}
 
-<script>
-(function(u, c) {
-  var d = document, t = 'script', o = d.createElement(t),
-      s = d.getElementsByTagName(t)[0];
-  o.src = u;
-  if (c) { o.addEventListener('load', function(e) { c(e); }); }
-  s.parentNode.insertBefore(o, s);
-})('//cdn.bootcss.com/pangu/3.3.0/pangu.min.js', function() {
-  pangu.spacingPage();
-});
-</script>
+  <!-- 文字自动加空格脚本 -->
+  <script>
+    (function(u, c) {
+      var d = document, t = 'script', o = d.createElement(t),
+          s = d.getElementsByTagName(t)[0];
+      o.src = u;
+      if (c) { o.addEventListener('load', function(e) { c(e); }); }
+      s.parentNode.insertBefore(o, s);
+    })('//cdn.bootcss.com/pangu/3.3.0/pangu.min.js', function() {
+      pangu.spacingPage();
+    });
+  </script>
 
-    <section class="copyright">
-        &copy; 
-        {{ if and (.Site.Params.footer.since) (ne .Site.Params.footer.since (int (now.Format "2006"))) }}
-            {{ .Site.Params.footer.since }} - 
-        {{ end }}
-        {{ now.Format "2006" }} <a href="https://trails-of-isara.vercel.app/">深海鱼拒绝触礁</a>·<i class="fas fa-bell"></i> <a id="days">0</a>Days<br>
-      {{$var :=  $scratch.Get "total"}}{{$var = div $var 100.0}}{{$var = math.Ceil $var}}{{$var = div $var 10.0}}扬起{{$var}}k粒海沙·共发现 {{ len (where .Site.RegularPages "Section" "post") }}簇海草</br><span><p>
-    </section>
-    
-    <section class="powerby">
-        {{ with .Site.Params.footer.customText }}
-            {{ . | safeHTML }} <br/>
-        {{ end }}
+  <!-- 版权和统计信息 -->
+  <section class="copyright" style="margin-bottom:1em;">
+    &copy;
+    {{ if and (.Site.Params.footer.since) (ne .Site.Params.footer.since (int (now.Format "2006"))) }}
+      {{ .Site.Params.footer.since }} -
+    {{ end }}
+    {{ now.Format "2006" }} <a href="https://trails-of-isara.vercel.app/" target="_blank" rel="noopener">深海鱼拒绝触礁</a> &middot;
+    <i class="fas fa-bell"></i> <a id="days">0</a> Days<br>
+    {{$var := $scratch.Get "total"}}{{$var = div $var 100.0}}{{$var = math.Ceil $var}}{{$var = div $var 10.0}}扬起{{$var}}k粒海沙 · 共发现 {{ len (where .Site.RegularPages "Section" "post") }} 簇海草
+  </section>
 
+  <!-- 自定义版权文字（如果有） -->
+  <section class="powerby" style="margin-bottom: 1em;">
+    {{ with .Site.Params.footer.customText }}
+      {{ . | safeHTML }}
+    {{ end }}
+  </section>
 
-        {{- $Generator := `<a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a>` -}}
-        {{- $Theme := printf `<b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="%s">Stack</a></b>` $ThemeVersion -}}
-        {{- $DesignedBy := `<a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a>` -}} 
-        
+  <!-- 运行天数脚本 -->
+  <script>
+    const startDate = new Date('2022-10-27'.replace(/-/g, '/'));
+    const today = new Date();
+    const diffDays = Math.floor((today - startDate) / (1000 * 60 * 60 * 24));
+    document.getElementById('days').textContent = diffDays;
+  </script>
 
+  <!-- 引入 APlayer 样式和脚本 -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css" />
+  <script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
 
-    </section>
-
-<script>
-var s1 = '2022-10-27';//设置为建站时间
-s1 = new Date(s1.replace(/-/g, "/"));
-s2 = new Date();
-var days = s2.getTime() - s1.getTime();
-var number_of_days = parseInt(days / (1000 * 60 * 60 * 24));
-document.getElementById('days').innerHTML = number_of_days;
-</script>
-
-<!-- APlayer 样式 -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
-<script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
-
-<!-- 自定义播放器样式 -->
-<style>
-  #aplayer-container {
-    position: fixed;
-    bottom: 20px;
-    left: 20px;
-    width: 60px;
-    height: 60px;
-    background-color: rgba(225, 188, 192, 0.85);
-    border-radius: 12px;
-    z-index: 9999;
-    overflow: hidden;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
-    transition: all 0.3s ease-in-out;
-  }
-
-  #aplayer-container.aplayer-expanded {
-    width: 33vw;
-    max-width: 400px;
-    height: 320px;
-  }
-
-  #aplayer-toggle {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    cursor: pointer;
-    font-size: 20px;
-    color: white;
-    z-index: 1000;
-    user-select: none;
-  }
-
-  /* 隐藏切换按钮时显示播放器内部 */
-  #aplayer-toggle.hide {
-    display: none;
-  }
-
-  /* 移动端适配 */
-  @media screen and (max-width: 768px) {
-    #aplayer-container.aplayer-expanded {
-      width: 95vw;
-      left: 2.5vw;
+  <!-- 播放器样式 -->
+  <style>
+    #aplayer-container {
+      position: fixed;
+      bottom: 20px;
+      left: 20px;
+      width: 60px;
+      height: 60px;
+      background-color: rgba(225, 188, 192, 0.85);
+      border-radius: 12px;
+      z-index: 9999;
+      overflow: hidden;
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
+      transition: all 0.3s ease-in-out;
+      cursor: pointer;
     }
-  }
-</style>
 
-<!-- 播放器容器 -->
-<div id="aplayer-container">
-  <div id="aplayer-toggle" onclick="toggleAPlayer()">▶</div>
-  <div id="aplayer-inner"></div>
-</div> 
+    #aplayer-container.aplayer-expanded {
+      width: 33vw;
+      max-width: 400px;
+      height: 320px;
+      cursor: default;
+    }
 
+    #aplayer-toggle {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      font-size: 20px;
+      color: white;
+      user-select: none;
+      pointer-events: auto;
+      z-index: 1000;
+    }
 
-<!-- 初始化 APlayer -->
-<script>
-  const ap = new APlayer({
-    container: document.getElementById('aplayer-inner'),
-    fixed: false,
-    mini: true,
-    autoplay: false,
-    listFolded: false,
-    listMaxHeight: 120,
-    lrcType: 0,
-    audio: [
-      {
-        name: '示例歌曲',
-        artist: '演唱者名称',
-        url: '/music/song.mp3',
-        cover: '/FALCOM.png'
-      },
-      // 更多歌曲可在此添加
-    ]
-  });
+    /* 隐藏图标时，播放器内容显示 */
+    #aplayer-container.aplayer-expanded #aplayer-toggle {
+      display: none;
+    }
+
+    /* 移动端适配 */
+    @media screen and (max-width: 768px) {
+      #aplayer-container.aplayer-expanded {
+        width: 95vw;
+        left: 2.5vw;
+      }
+    }
+  </style>
+
+  <!-- 播放器HTML结构 -->
+  <div id="aplayer-container" aria-label="音乐播放器">
+    <div id="aplayer-toggle" onclick="toggleAPlayer()">▶</div>
+    <div id="aplayer-inner"></div>
+  </div>
+
+  <!-- 播放器初始化与切换展开脚本 -->
+  <script>
+  let ap = null;
 
   function toggleAPlayer() {
     const container = document.getElementById('aplayer-container');
-    container.classList.toggle('aplayer-expanded');
+    const expanded = container.classList.toggle('aplayer-expanded');
+
+    if (expanded && !ap) {
+      ap = new APlayer({
+        container: document.getElementById('aplayer-inner'),
+        fixed: true,
+        mini: false,
+        autoplay: false,
+        listFolded: false,
+        listMaxHeight: 120,
+        lrcType: 0,
+        audio: [
+          {
+            name: 'LOST HARMONY AMONG PEOPLE',
+            artist: 'Falcom Sound Team J.D.K.',
+            url: '/aplayer/LOST HARMONY AMONG PEOPLE.mp3',
+            cover: '/aplayer/FALCOM.png'
+          },
+          {
+            name: 'FORGOTTEN DAYS',
+            artist: 'Falcom Sound Team J.D.K.',
+            url: '/aplayer/FORGOTTEN DAYS.mp3',
+            cover: '/aplayer/FALCOM.png'
+          },
+          {
+            name: 'PRISON OF BALDUQ -YEARNING-',
+            artist: 'Falcom Sound Team J.D.K.',
+            url: '/aplayer/PRISON OF BALDUQ -YEARNING-.mp3',
+            cover: '/aplayer/FALCOM.png'
+          },
+          {
+            name: 'アルモリカ村',
+            artist: 'Falcom Sound Team J.D.K.',
+            url: '/aplayer/アルモリカ村.mp3',
+            cover: '/aplayer/FALCOM.png'
+          },
+          {
+            name: '鉱山町マインツ',
+            artist: 'Falcom Sound Team J.D.K.',
+            url: '/aplayer/鉱山町マインツ.mp3',
+            cover: '/aplayer/FALCOM.png'
+          },
+          {
+            name: '雨の日の真実',
+            artist: 'Falcom Sound Team J.D.K.',
+            url: '/aplayer/雨の日の真実.mp3',
+            cover: '/aplayer/FALCOM.png'
+          },
+          {
+            name: '月下の想い',
+            artist: 'Falcom Sound Team J.D.K.',
+            url: '/aplayer/月下の想い.mp3',
+            cover: '/aplayer/FALCOM.png'
+          },
+          {
+            name: 'TOWER OF THE SHADOW OF DEATH -Jukebox-',
+            artist: 'Falcom Sound Team J.D.K.',
+            url: '/aplayer/TOWER OF THE SHADOW OF DEATH -Jukebox-.mp3',
+            cover: '/aplayer/FALCOM.png'
+          },
+          {
+            name: '白き魔女ゲルド -尊き魂-',
+            artist: 'Falcom Sound Team J.D.K.',
+            url: '/aplayer/白き魔女ゲルド -尊き魂-.mp3',
+            cover: '/aplayer/FALCOM.png'
+          },
+          {
+            name: 'デュルゼルの手紙',
+            artist: 'Falcom Sound Team J.D.K.',
+            url: '/aplayer/デュルゼルの手紙.mp3',
+            cover: '/aplayer/FALCOM.png'
+          }
+        ]
+      });
+    }
   }
 </script>
+
 
 </footer>
