@@ -1,0 +1,49 @@
+/* 左下角悬浮样式 */
+.aplayer.aplayer-fixed-left {
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+  z-index: 999;
+  width: 60px;
+  height: 60px;
+  border-radius: 8px;
+  overflow: hidden;
+  background: rgba(225, 188, 192, 0.85); /* 半透明粉色调 */
+  transition: width 0.3s ease, height 0.3s ease;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* 展开后的最大宽度：屏幕三分之一 */
+.aplayer.aplayer-fixed-left.aplayer-expanded {
+  width: 33vw;
+  height: auto;
+}
+
+/* 隐藏播放器主体（只显示图标） */
+.aplayer.aplayer-fixed-left:not(.aplayer-expanded) .aplayer-body,
+.aplayer.aplayer-fixed-left:not(.aplayer-expanded) .aplayer-list,
+.aplayer.aplayer-fixed-left:not(.aplayer-expanded) .aplayer-lrc {
+  display: none !important;
+}
+
+/* 控制按钮样式 */
+.aplayer-toggle-button {
+  position: absolute;
+  top: 20px;
+  right: -10px;
+  background: #fff;
+  border: 1px solid #ccc;
+  border-radius: 50%;
+  width: 18px;
+  height: 18px;
+  cursor: pointer;
+  z-index: 1000;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+/* 播放器封面改为你的图标 */
+.aplayer .aplayer-pic {
+  background-image: url("/FALCOM.png");
+  background-size: cover;
+  background-position: center;
+}

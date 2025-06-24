@@ -49,5 +49,89 @@ var days = s2.getTime() - s1.getTime();
 var number_of_days = parseInt(days / (1000 * 60 * 60 * 24));
 document.getElementById('days').innerHTML = number_of_days;
 </script>
-    
+
+<!-- APlayer 样式 -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
+<script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
+
+<!-- 自定义播放器样式 -->
+<style>
+  #aplayer-container {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    width: 60px;
+    height: 60px;
+    background-color: rgba(225, 188, 192, 0.85);
+    border-radius: 12px;
+    z-index: 9999;
+    overflow: hidden;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
+    transition: all 0.3s ease-in-out;
+  }
+
+  #aplayer-container.aplayer-expanded {
+    width: 33vw;
+    max-width: 400px;
+    height: auto;
+  }
+
+  #aplayer-toggle {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    cursor: pointer;
+    font-size: 20px;
+    color: white;
+    z-index: 1000;
+    user-select: none;
+  }
+
+  /* 隐藏切换按钮时显示播放器内部 */
+  #aplayer-toggle.hide {
+    display: none;
+  }
+
+  /* 移动端适配 */
+  @media screen and (max-width: 768px) {
+    #aplayer-container.aplayer-expanded {
+      width: 95vw;
+      left: 2.5vw;
+    }
+  }
+</style>
+
+<!-- 播放器容器 -->
+<div id="aplayer-container">
+  <div id="aplayer-toggle" onclick="toggleAPlayer()">▶</div>
+  <div id="aplayer-inner"></div>
+
+<!-- 初始化 APlayer -->
+<script>
+  const ap = new APlayer({
+    container: document.getElementById('aplayer-inner'),
+    fixed: false,
+    mini: true,
+    autoplay: false,
+    listFolded: false,
+    listMaxHeight: 120,
+    lrcType: 0,
+    audio: [
+      {
+        name: '示例歌曲',
+        artist: '演唱者名称',
+        url: '/music/song.mp3',
+        cover: '/favicon.png'
+      },
+      // 更多歌曲可在此添加
+    ]
+  });
+
+  function toggleAPlayer() {
+    const container = document.getElementById('aplayer-container');
+    container.classList.toggle('aplayer-expanded');
+  }
+</script>
+
 </footer>
