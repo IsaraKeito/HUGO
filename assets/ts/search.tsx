@@ -196,6 +196,8 @@ class Search {
         const endTime = performance.now();
 
         this.resultTitle.innerText = this.generateResultTitle(results.length, ((endTime - startTime) / 1000).toPrecision(1));
+
+        pjax.refresh(document);
     }
 
     private generateResultTitle(resultLen, time) {
@@ -305,7 +307,7 @@ declare global {
     }
 }
 
-window.addEventListener('load', () => {
+/* window.addEventListener('load', () => {
     setTimeout(function () {
         const searchForm = document.querySelector('.search-form') as HTMLFormElement,
             searchInput = searchForm.querySelector('input') as HTMLInputElement,
@@ -322,4 +324,24 @@ window.addEventListener('load', () => {
     }, 0);
 })
 
-export default Search;
+export default Search; */
+
+function searchInit() {
+    let search = document.querySelector('.search-result');
+    if (search) {
+        const searchForm = document.querySelector('.search-form') as HTMLFormElement,
+            searchInput = searchForm.querySelector('input') as HTMLInputElement,
+            searchResultList = document.querySelector('.search-result--list') as HTMLDivElement,
+            searchResultTitle = document.querySelector('.search-result--title') as HTMLHeadingElement;
+
+        new Search({
+            form: searchForm,
+            input: searchInput,
+            list: searchResultList,
+            resultTitle: searchResultTitle,
+            resultTitleTemplate: window.searchResultTitleTemplate
+        });
+    }
+}
+
+export { searchInit };
