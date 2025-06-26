@@ -19,23 +19,26 @@
     });
   </script>
 
-  <!-- 版权和统计信息 -->
-  <section class="copyright" style="margin-bottom:1em;">
-    &copy;
-    {{ if and (.Site.Params.footer.since) (ne .Site.Params.footer.since (int (now.Format "2006"))) }}
-      {{ .Site.Params.footer.since }} -
-    {{ end }}
-    {{ now.Format "2006" }} <a href="https://trails-of-isara.vercel.app/" target="_blank" rel="noopener">深海鱼拒绝触礁</a> &middot;
-    <i class="fas fa-bell"></i> <a id="days">0</a> Days<br>
-    {{$var := $scratch.Get "total"}}{{$var = div $var 100.0}}{{$var = math.Ceil $var}}{{$var = div $var 10.0}}扬起{{$var}}k粒海沙 · 共发现 {{ len (where .Site.RegularPages "Section" "post") }} 簇海草
-  </section>
+<!-- 版权和统计信息 -->
+<section class="copyright" style="margin-bottom:1em;">
+  &copy;
+  {{ if and (.Site.Params.footer.since) (ne .Site.Params.footer.since (int (now.Format "2006"))) }}
+    {{ .Site.Params.footer.since }} -
+  {{ end }}
+  {{ now.Format "2006" }} <a href="https://trails-of-isara.vercel.app/" target="_blank" rel="noopener">深海鱼拒绝触礁</a> &middot;
+  <i class="fas fa-bell"></i> <a id="days">0</a> Days<br>
+  {{$var := $scratch.Get "total"}}{{$var = div $var 100.0}}{{$var = math.Ceil $var}}{{$var = div $var 10.0}}扬起{{$var}}k粒海沙 · 共发现 {{ len (where .Site.RegularPages "Section" "post") }} 簇海草
+</section>
 
-  <!-- 自定义版权文字（如果有） -->
-  <section class="powerby" style="margin-bottom: 1em;">
-    {{ with .Site.Params.footer.customText }}
-      {{ . | safeHTML }}
-    {{ end }}
-  </section>
+<!-- 自定义版权文字（如果有） -->
+<section class="powerby" style="margin-bottom: 1em;">
+  {{ with .Site.Params.footer.customText }}
+    {{ . | safeHTML }}
+  {{ else }}
+    <p style="font-size: 0.85em; color: #555;">博客作者保留对文章内容的所有权利，未经许可禁止转载。</p>
+  {{ end }}
+</section>
+
 
   <!-- 运行天数脚本 -->
   <script>
@@ -45,10 +48,6 @@
     document.getElementById('days').textContent = diffDays;
   </script>
 
-</footer>
-<div id="copyright-bar">
-  博客作者保留对文章内容的所有权利，未经许可禁止转载。
-</div>
 
 <style>
   #copyright-bar {
