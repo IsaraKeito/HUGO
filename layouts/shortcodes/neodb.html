@@ -51,7 +51,7 @@
         <div class="db-card">
             <div class="db-card-subject">
                 <div class="db-card-post">
-                    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/Neodb.jpg" 
+                    <img src="{{ $dbFetch.item.cover_image_url }}" 
                          alt="Placeholder Image" 
                          style="max-width: 100%; height: auto;" 
                          id="{{ $uniqueId }}">
@@ -73,21 +73,6 @@
                 </div>
             </div>
         </div>
-
-        <script>
-            document.addEventListener('DOMContentLoaded', function() {
-                const img = document.getElementById('{{ $uniqueId }}');
-                const newImgSrc = '{{ $dbFetch.item.cover_image_url }}';
-
-                if (newImgSrc) {
-                    const tempImg = new Image();
-                    tempImg.src = newImgSrc;
-                    tempImg.onload = function() {
-                        img.src = newImgSrc;
-                    };
-                }
-            });
-        </script>
 
     {{ else }}
         <p style="text-align: center;"><small>获取数据失败，请检查 API 是否有效。</small></p>
