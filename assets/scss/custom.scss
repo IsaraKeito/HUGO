@@ -231,15 +231,24 @@ blockquote.quote {
   }
 }
 
-// 鼠标悬停放大图片
+//鼠标悬停图片放大
 .zoom-on-hover {
   transition: transform 0.3s ease;
   cursor: zoom-in;
+  display: inline-block;
+  max-width: 100%;
+  position: relative; // 为z-index生效做准备
 }
 
 .zoom-on-hover:hover {
   transform: scale(2);
   z-index: 10;
+}
+
+.post-content img {
+  display: inline-block;
+  max-width: 100%;
+  height: auto;
 }
 
 
@@ -426,3 +435,4 @@ blockquote.quote {
     grid-template-columns: 1fr !important;
   }
 }
+
