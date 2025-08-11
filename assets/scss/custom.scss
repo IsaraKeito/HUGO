@@ -231,18 +231,6 @@ blockquote.quote {
   }
 }
 
-// 鼠标悬停放大图片
-.zoom-on-hover {
-  transition: transform 0.3s ease;
-  cursor: zoom-in;
-}
-
-.zoom-on-hover:hover {
-  transform: scale(2);
-  z-index: 10;
-}
-
-
 // APlayer
 /* 播放器外层容器 */
 #aplayer-wrapper {
