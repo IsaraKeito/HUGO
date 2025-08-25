@@ -83,7 +83,25 @@ params:
             autoCreateIssue: false
 
         # Waline client configuration see: https://waline.js.org/en/reference/client.html
-        waline:
+        params:
+            comments:
+                enabled: true
+                provider: waline
+                waline:
+                    serverURL: "https://trails-of-isara.vercel.app/"
+                    lang: "zh-CN"
+                    visitor: false
+                    avatar: retro
+                    emoji:
+                        - https://cdn.jsdelivr.net/gh/norevi/blob-emoji-for-waline@2.0/blobs-gif
+                    requiredMeta:
+                        - name
+                        - email
+                        - url
+                    placeholder: "今日要闻：海底新增泡泡留言板，虽然脆弱易碎，但欢迎来一起吐泡泡！"
+                    locale:
+                        admin: "深海探险家"
+
             serverURL:
             lang:
             visitor:
