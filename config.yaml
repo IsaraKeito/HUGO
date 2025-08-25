@@ -88,7 +88,7 @@ params:
                 enabled: true
                 provider: waline
                 waline:
-                    serverURL: "https://waline-shark.vercel.app/"
+                    serverURL: "https://waline-shark-hd3uyk02l-isarakeitos-projects.vercel.app/"
                     lang: "zh-CN"
                     visitor: false
                     avatar: retro
