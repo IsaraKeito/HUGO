@@ -88,7 +88,7 @@ params:
                 enabled: true
                 provider: waline
                 waline:
-                    serverURL: "https://trails-of-isara.vercel.app/"
+                    serverURL: "https://waline-shark.vercel.app/"
                     lang: "zh-CN"
                     visitor: false
                     avatar: retro
