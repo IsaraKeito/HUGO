@@ -93,7 +93,6 @@ params:
             # 头像大小设置（可选）:
             avatarSize: 40  # 头像大小，单位像素
             emoji:
-                - https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/
                 - https://cdn.jsdelivr.net/gh/DuckOfDisorder/BlobCats/main/PNGs/
             requiredMeta:
                 - name
