@@ -93,7 +93,7 @@ params:
             # 头像大小设置（可选）:
             avatarSize: 40  # 头像大小，单位像素
             emoji:
-                - https://cdn.jsdelivr.net/gh/DuckOfDisorder/BlobCats/main/PNGs/
+                - https://cdn.jsdelivr.net/gh/norevi/blob-emoji-for-waline@2.0/blobs-gif
             requiredMeta:
                 - name
                 - email
