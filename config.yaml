@@ -86,9 +86,15 @@ params:
             serverURL: "https://waline-shark.vercel.app/"
             lang: "zh-CN"
             visitor: false
-            avatar: retro
+            avatar: monsterid  # 未登录用户显示随机monsterid头像
+            # 其他选项：
+            # avatar: "https://your-domain.com/default-avatar.png"  # 自定义头像URL
+            # avatar: "https://gravatar.com/avatar/{{hash}}?d={{default}}&s={{size}}"  # Gravatar服务
+            # 头像大小设置（可选）:
+            avatarSize: 40  # 头像大小，单位像素
             emoji:
-                - https://cdn.jsdelivr.net/gh/norevi/blob-emoji-for-waline@2.0/blobs-gif
+                - https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/
+                - https://cdn.jsdelivr.net/gh/DuckOfDisorder/BlobCats/main/
             requiredMeta:
                 - name
                 - email
@@ -96,6 +102,9 @@ params:
             placeholder: "今日要闻：海底新增泡泡留言板，虽然脆弱易碎，但欢迎来一起吐泡泡！"
             locale:
                 admin: "深海探险家"
+            # 管理员配置
+            # admin: "your-email@example.com"  # 管理员邮箱
+            adminNick: "深海探险家"  # 管理员显示名称
 
 
         twikoo:
