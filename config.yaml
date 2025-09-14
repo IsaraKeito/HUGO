@@ -88,6 +88,10 @@ params:
             visitor: false
             # 隐藏客户端信息显示
             showClientInfo: false
+            # 邮件通知配置
+            notification: true  # 启用邮件通知
+            # 邮件通知选项
+            emailNotification: true
             avatar: monsterid  # 未登录用户显示随机monsterid头像
             # 其他选项：
             # avatar: "https://your-domain.com/default-avatar.png"  # 自定义头像URL
