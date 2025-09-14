@@ -86,6 +86,8 @@ params:
             serverURL: "https://waline-shark.vercel.app/"
             lang: "zh-CN"
             visitor: false
+            # 隐藏客户端信息显示
+            showClientInfo: false
             avatar: monsterid  # 未登录用户显示随机monsterid头像
             # 其他选项：
             # avatar: "https://your-domain.com/default-avatar.png"  # 自定义头像URL
