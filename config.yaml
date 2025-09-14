@@ -83,7 +83,7 @@ params:
             autoCreateIssue: false
 
         waline:
-            serverURL: "https://waline-shark-hd3uyk02l-isarakeitos-projects.vercel.app/"
+            serverURL: "https://waline-shark.vercel.app/"
             lang: "zh-CN"
             visitor: false
             avatar: retro
