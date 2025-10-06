@@ -14,16 +14,16 @@ categories:
 ---
 
 ## 书籍<br/>
-{{< neodb "https://neodb.social/book/6cWWAqki9vTXyIFaNhWihU" >}}鲨鱼将拥护丰田彻也宇宙。<br/>
+{{< neodb "https://neodb.social/book/4BhHFGdedMaqtrrpimQnwy" >}}鲨鱼将拥护丰田彻也宇宙。<br/>
 哈哈这本丰田彻也还是在书店看的，不同的是，这回小鲨是在本店一边享受店员&前同事圆子做的咖啡，一边看的，幸福！<br/>
 这本是短篇合集，每篇之间的人物多少都是有关系的。看末尾的创作谈话，发现炸猪排只是作者对吃过的一家炸猪排念念不忘wwwww<br/>
 想看咖啡时间！{{< /neodb >}}
-{{< neodb "https://book.douban.com/subject/35336612/" >}}“我都没法告诉你我是多么嫉妒你啊，因为你可以领略初读费雪的快乐了。”<br/>
+
+{{< neodb "https://neodb.social/book/6cWWAqki9vTXyIFaNhWihU" >}}“我都没法告诉你我是多么嫉妒你啊，因为你可以领略初读费雪的快乐了。”<br/>
 现在鲨就是那个被嫉妒的幸运儿。<br/>
 请大家都来看立马上菜！！{{< /neodb >}}
 
-{{< neodb "https://neodb.social/book/0VHnaeT2p2JMCJ4UJpRrwS/" >}}
-三个故事分了三个清晨看完了。<br/>
+{{< neodb "https://neodb.social/book/0VHnaeT2p2JMCJ4UJpRrwS" >}}三个故事分了三个清晨看完了。<br/>
 《三姐妹》里，夜里坐游乐场飞机，一定很舒服——{{< /neodb >}}
 
 ## 影视<br/>
