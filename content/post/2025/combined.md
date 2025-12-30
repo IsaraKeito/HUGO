@@ -1,6 +1,5 @@
 ---
-
-title: Monthly Sep-Dec. | 书影游合刊
+title: "Monthly Sep-Dec. | 书影游合刊"
 description: 太久不更所以决定把书影游和生活篇分开一下写！
 date: 2025-12-30T08:50:20+08:00
 image: https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/top2.jpg
@@ -8,10 +7,10 @@ hidden: false
 comments: true
 draft: false
 tags:
-  - N周目
-  - 插播旧闻
+  - N周目
+  - 插播旧闻
 categories:
-  - 鲨鱼的庭院
+  - 鲨鱼的庭院
 ---
 
 进行一个随意的合刊。<br/>
