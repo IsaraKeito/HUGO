@@ -96,7 +96,6 @@ categories:
   <p>
     <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/suisui.jpg" alt="" class="zoom-on-hover" />
     <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/suisui2.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/1st.jpg" alt="" class="zoom-on-hover" />
     <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/suisui4.jpg" alt="" class="zoom-on-hover" />
   </p>
 </div>
