@@ -26,7 +26,7 @@ categories:
 ## 影视<br/>
 {{< neodb "https://neodb.social/movie/6bovigoEInD0KcTADT6eQT" >}}台风天里，和甜甜圈一起看了电影。<br/>都很精彩，演得很好，还是默默心酸了几下。不过翻看手账的时候，发现那天写了“大家都是吵架好手”几个字，有被这种突然互相爆发伤害的剧情吓到。怎么回事，不应是大家被某句伤到，从此渐行渐远再也不往来了吗，怎么大家吵着吵着就说开了呜呜呜……{{< /neodb >}}
 {{< neodb "https://neodb.social/movie/4OfexgOtbtpIej2349Ur56" >}}忘得差不多了，只记得打戏很好玩。{{< /neodb >}}
-{{< neodb "https://neodb.social/movie/6bovigoEInD0KcTADT6eQT" >}}是恶评，是恶评！！<br/>看完很久之后的某天，球球突然对鲨鱼说：原来你不喜欢这部。<br/>好久没有遇到过中场就想要离场的电影了，毕竟就算盲看也是有筛一下的，至少没遇见过这种讨厌到坐不住的。开始看前就听《没折腰》说这部评价并不那么好，球说“尝尝咸淡”，然后就尝了。<br/>一开场鲨就开始生气，谁让你上来就给我讲前情提要，是不会拍吗？那你拍什么电影？你找几个演员三言两句讲个大概都比你打字介绍得好。从此时已经感觉不妙，漫长的前情提要结束之后以为会好一些，结果没多久就是被麦的味道冲死（怎么好像听歌又不太明显），画面黑到不知天地为何物，只是一味狂打狂追，又突如其来精心设计的飞溅血液，又闪过定格很颓废空旷的美术概念一样的场景，诶哟还有一群超绝男性意味的……唉鲨真不行了。到打牌抓鬼那块就是真的彻底想走，恶心得鲨把视线从屏幕上挪开了一会。<br/>总之总之就是，看完了走出影院如释重负啊！终于结束了！{{< /neodb >}}
+{{< neodb "https://neodb.social/movie/3aTMY29AXreM49pf8jfCzO" >}}是恶评，是恶评！！<br/>看完很久之后的某天，球球突然对鲨鱼说：原来你不喜欢这部。<br/>好久没有遇到过中场就想要离场的电影了，毕竟就算盲看也是有筛一下的，至少没遇见过这种讨厌到坐不住的。开始看前就听《没折腰》说这部评价并不那么好，球说“尝尝咸淡”，然后就尝了。<br/>一开场鲨就开始生气，谁让你上来就给我讲前情提要，是不会拍吗？那你拍什么电影？你找几个演员三言两句讲个大概都比你打字介绍得好。从此时已经感觉不妙，漫长的前情提要结束之后以为会好一些，结果没多久就是被麦的味道冲死（怎么好像听歌又不太明显），画面黑到不知天地为何物，只是一味狂打狂追，又突如其来精心设计的飞溅血液，又闪过定格很颓废空旷的美术概念一样的场景，诶哟还有一群超绝男性意味的……唉鲨真不行了。到打牌抓鬼那块就是真的彻底想走，恶心得鲨把视线从屏幕上挪开了一会。<br/>总之总之就是，看完了走出影院如释重负啊！终于结束了！{{< /neodb >}}
 {{< neodb "https://neodb.social/movie/1MlM838vtwHXUNT2R1MHbL" >}}太好看了！！猫猫乡好评果然可靠！<br/>特别特别喜欢小李子这个又废又好笑的角色，交给他你就操心吧！而妹妹又实在太酷了，诶哟……<br/>最后：这个家没有sensei得散啊！{{< /neodb >}}
 {{< neodb "https://neodb.social/tv/season/4SaVkFuL4jZp8XsWpJdknV" >}}大家都很萌的一部。{{< /neodb >}}
 {{< neodb "https://neodb.social/movie/4523ixudCCqviEdx5OGdNP" >}}磨，别这么用自己的脸。{{< /neodb >}}
@@ -63,6 +63,10 @@ categories:
   <p>
     <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/garcia.jpg" alt="" class="zoom-on-hover" />
     <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/galaxyko.jpg" alt="" class="zoom-on-hover" />
+  </p>
+</div>
+<div class="post-content">
+  <p>
     <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/1st.jpg" alt="" class="zoom-on-hover" />
     <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/qiucheng.jpg" alt="" class="zoom-on-hover" />
   </p>
@@ -72,6 +76,10 @@ categories:
   <p>
     <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/dai1.jpg" alt="" class="zoom-on-hover" />
     <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/dai2.jpg" alt="" class="zoom-on-hover" />
+  </p>
+</div>
+<div class="post-content">
+  <p>
     <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/dai.jpg" alt="" class="zoom-on-hover" />
     <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/dai3.jpg" alt="" class="zoom-on-hover" />
   </p>
