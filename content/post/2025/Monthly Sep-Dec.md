@@ -1,5 +1,5 @@
 ---
-title: "Monthly Sep-Dec. | 天气太坏路难行"
+title: Monthly Sep-Dec. | 天气太坏路难行
 description: 今天起雾，好在昨日有晴朗天气。
 date: 2025-12-31T12:31:30+08:00
 image: https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912monthly/top1.jpg
