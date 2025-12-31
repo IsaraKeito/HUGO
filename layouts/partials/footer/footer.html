@@ -39,17 +39,16 @@
   {{ end }}
 </section>
 
-<!-- 运行天数脚本 -->
+
+  <!-- 运行天数脚本 -->
   <script>
-  // 建站日期（注意：月份从 0 开始，所以 9 表示 10 月）
-   const startDate = new Date(Date.UTC(2022, 9, 27));
-
-   const today = new Date();
-   const diffTime = today.getTime() - startDate.getTime();
-   const diffDays = Math.floor(diffTime / (1000 * 60 * 60 * 24));
-
-   document.getElementById('days').textContent = diffDays;
+    const startDate = new Date('2022-10-27'.replace(/-/g, '/'));
+    const today = new Date();
+    const diffDays = Math.floor((today - startDate) / (1000 * 60 * 60 * 24));
+    document.getElementById('days').textContent = diffDays;
   </script>
+
+
 <style>
   #copyright-bar {
     position: fixed;
