@@ -1,6 +1,6 @@
 ---
 title: Monthly Sep-Dec. | 书影游合刊
-description: 太久不更所以决定把书影游和生活篇分开一下写！
+description: 太久不更所以决定把书影游和生活篇分开一下写！2026年2月绝赞更新（？）
 date: 2025-12-31T12:31:00+08:00
 image: https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/top2.jpg
 hidden: false
@@ -84,7 +84,10 @@ categories:
     <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/dai3.jpg" alt="" class="zoom-on-hover" />
   </p>
 </div>
-
+<div class="post-content">
+  <p>
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/kiseki.jpg" alt="" class="zoom-on-hover" />
+  </p>
 <div>
   <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/suisui3.jpg" style="float:left !important; width:30%; margin-right:1em;">
   <p style="clear:none;">
@@ -92,8 +95,12 @@ categories:
   </p>
 </div>
 
-以及在年末，虽然CP32pre砍了日IP，导致岁岁老师决定暂时不上新本了，不过还是吃到了之前24H的产物台历！*之后收到东西再把图片更新上来~*<br/>很幸福，岁岁老师说，袋师有东西要给小鲨，正好一起寄过来。诶呀眼泪掉下来了……<br/>
-
+以及在年末，虽然CP32pre砍了日IP，导致岁岁老师决定暂时不上新本了，不过还是吃到了之前24H的产物台历！<br/>
+很幸福，岁岁老师说，袋师有东西要给小鲨，正好一起寄过来。诶呀眼泪掉下来了……<br/>
+<div class="post-content">
+  <p>
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/ys1.jpg" alt="" class="zoom-on-hover" />
+  </p>
 <div class="post-content">
   <p>
     <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/suisui.jpg" alt="" class="zoom-on-hover" />
@@ -103,6 +110,40 @@ categories:
 </div>
 
 最后，重磅登场我们**作弊**·飒漫画你欠我的拿什么还·冷冷的很安心·原作连名字都不好审核·**艺术**！群友带着大摊位登场CP，群友们厨力好高，鲨鱼只是一味地狂吃通贩。<br/>
-*依然是还没有图片，等到货来上图！*
+~~*依然是还没有图片，等到货来上图！*~~<br/>
+2026.2编：拖拖拉拉终于弄完图片，进行一个图片大更新！
+<div class="post-content">
+  <p>
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/cc18.jpg" alt="" class="zoom-on-hover" />
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/cc10.jpg" alt="" class="zoom-on-hover" />
+  </p>
+</div>
 
-
+<div class="post-content">
+  <p>
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/cc1.jpg" alt="" class="zoom-on-hover" />
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/cc2.jpg" alt="" class="zoom-on-hover" />
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/cc3.jpg" alt="" class="zoom-on-hover" />
+  </p>
+</div>
+<div class="post-content">
+  <p>
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/cc5.jpg" alt="" class="zoom-on-hover" />
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/cc11.jpg" alt="" class="zoom-on-hover" />
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/cc6.jpg" alt="" class="zoom-on-hover" />
+  </p>
+</div>
+<div class="post-content">
+  <p>
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/cc7.jpg" alt="" class="zoom-on-hover" />
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/cc8.jpg" alt="" class="zoom-on-hover" />
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/cc9.jpg" alt="" class="zoom-on-hover" />
+  </p>
+</div>
+<div class="post-content">
+  <p>
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/cc14.jpg" alt="" class="zoom-on-hover" />
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/cc15.jpg" alt="" class="zoom-on-hover" />
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/cc16.jpg" alt="" class="zoom-on-hover" />
+  </p>
+</div>
