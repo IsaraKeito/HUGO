@@ -363,11 +363,18 @@ blockquote.quote {
   width: 100%; 
   margin: 2em 0;              // 图片行上下间距，1em 为1单位字体大小，也可以改成 px ，可以更细致地调整间距
 }
+
 .img-row img {
   width: 100%;                // 固定宽度
   height: auto;               // 高度自适应
   object-fit: cover;          // 裁剪填充
   border-radius: 8px;         // 图片圆角
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); // 添加阴影
+  transition: transform 0.2s ease; // 悬停放大动画
+}
+
+.img-row img:hover {
+  transform: scale(1.03); // 悬停放大倍率
 }
 
 
