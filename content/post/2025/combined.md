@@ -59,91 +59,66 @@ categories:
 ## 最后还有一些萌萌的同人碎片<br/>
 收到了很多幸福同人！<br/>
 特别萌的Garcia本，看完心里暖暖的。还有银河老师的新艾约、空轨1st合刊以及秋澄老师的零碧小人！
-<div class="post-content">
-  <p>
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/garcia.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/galaxyko.jpg" alt="" class="zoom-on-hover" />
-  </p>
+<div class="img-row">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/garcia.jpg" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/galaxyko.jpg" alt="">  
 </div>
-<div class="post-content">
-  <p>
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/1st.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/qiucheng.jpg" alt="" class="zoom-on-hover" />
-  </p>
-</div>
-袋师的黎轨冰火本和无料，这么萌这么萌……反复品味。
-<div class="post-content">
-  <p>
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/dai1.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/dai2.jpg" alt="" class="zoom-on-hover" />
-  </p>
-</div>
-<div class="post-content">
-  <p>
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/dai.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/dai3.jpg" alt="" class="zoom-on-hover" />
-  </p>
-</div>
-<div class="post-content">
-  <p>
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/kiseki.jpg" alt="" class="zoom-on-hover" />
-  </p>
-<div>
-  <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/suisui3.jpg" style="float:left !important; width:30%; margin-right:1em;">
-  <p style="clear:none;">
-  然后是CP代购失败，兜兜转转还是和岁岁老师私联蹲的伊苏10P豆嘉本和无料。<br/>嘿嘿很开心，其实很少能和别人大聊特聊法社啊，和岁岁老师唠唠叨叨，发现我们都超级喜欢兰迪尼，然后狂骂了闪轨里面的兰迪尼建模和相关剧情，又交流上了我们小罗和兰迪尼的爱恨情仇。<br/>
-  </p>
+<div class="img-row">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/1st.jpg" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/qiucheng.jpg" alt="">  
 </div>
 
+袋师的黎轨冰火本和无料，这么萌这么萌……反复品味。
+<div class="img-row">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/dai1.jpg" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/dai2.jpg" alt="">  
+</div>
+<div class="img-row">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/dai.jpg" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/dai3.jpg" alt="">  
+</div>
+<div class="img-row">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/kiseki.jpg" alt="">  
+</div>
+
+然后是CP代购失败，兜兜转转还是和岁岁老师私联蹲的伊苏10P豆嘉本和无料。<br/>嘿嘿很开心，其实很少能和别人大聊特聊法社啊，和岁岁老师唠唠叨叨，发现我们都超级喜欢兰迪尼，然后狂骂了闪轨里面的兰迪尼建模和相关剧情，又交流上了我们小罗和兰迪尼的爱恨情仇。
+<div class="img-row">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/suisui3.jpg" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/ys1.jpg" alt="">  
+</div>
 以及在年末，虽然CP32pre砍了日IP，导致岁岁老师决定暂时不上新本了，不过还是吃到了之前24H的产物台历！<br/>
 很幸福，岁岁老师说，袋师有东西要给小鲨，正好一起寄过来。诶呀眼泪掉下来了……<br/>
-<div class="post-content">
-  <p>
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/ys1.jpg" alt="" class="zoom-on-hover" />
-  </p>
-<div class="post-content">
-  <p>
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/suisui.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/suisui2.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/suisui4.jpg" alt="" class="zoom-on-hover" />
-  </p>
+<div class="img-row">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/suisui.jpg"" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/suisui2.jpg"" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/suisui4.jpg"" alt="">
 </div>
 
 最后，重磅登场我们**作弊**·飒漫画你欠我的拿什么还·冷冷的很安心·原作连名字都不好审核·**艺术**！群友带着大摊位登场CP，群友们厨力好高，鲨鱼只是一味地狂吃通贩。<br/>
 ~~*依然是还没有图片，等到货来上图！*~~<br/>
 2026.2编：拖拖拉拉终于弄完图片，进行一个图片大更新！
-<div class="post-content">
-  <p>
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/cc18.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/cc10.jpg" alt="" class="zoom-on-hover" />
-  </p>
+<div class="img-row">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/cc18.jpg"" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/cc10.jpg"" alt="">  
+</div>
+<div class="img-row">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/cc1.jpg"" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/cc2.jpg"" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/cc3.jpg"" alt="">
 </div>
 
-<div class="post-content">
-  <p>
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/cc1.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/cc2.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/cc3.jpg" alt="" class="zoom-on-hover" />
-  </p>
+<div class="img-row">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/cc5.jpg"" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/cc11.jpg"" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/cc6.jpg"" alt="">
 </div>
-<div class="post-content">
-  <p>
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/cc5.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/cc11.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/cc6.jpg" alt="" class="zoom-on-hover" />
-  </p>
+<div class="img-row">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/cc7.jpg"" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/cc8.jpg"" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/cc9.jpg"" alt="">
 </div>
-<div class="post-content">
-  <p>
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/cc7.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/cc8.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/cc9.jpg" alt="" class="zoom-on-hover" />
-  </p>
-</div>
-<div class="post-content">
-  <p>
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/cc14.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/cc15.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/cc16.jpg" alt="" class="zoom-on-hover" />
-  </p>
+<div class="img-row">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/cc14.jpg"" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/cc15.jpg"" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/912book/cc16.jpg"" alt="">
 </div>
