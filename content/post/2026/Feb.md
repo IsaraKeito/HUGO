@@ -305,7 +305,7 @@ P.S. 书店新增了几个柜子，是之前店长在附近捡垃圾捡回来的
     <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/26/02/b5.jpg" alt=""   />
 </div>
 <div class="img-row">
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/26/02/b1.jpg" alt=""   />
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/26/02/b12.jpg" alt=""   />
     <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/26/02/b10.jpg" alt=""   />
     <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/26/02/b11.jpg" alt=""   />
 </div>
