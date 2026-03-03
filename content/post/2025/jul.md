@@ -64,17 +64,17 @@ categories:
 <font size=3 color=#4d1f00>**和朋友的朋友的一晚**</font><br/>
 一起去了网红咖啡店，原本书店店长想带鲨鱼一起去这家的旧店，没想到那时候恰好停业，据说之后会开新店。没想到三个月后鲨鱼来到了新店。<br/>
 巴斯克好吃！咖啡很多奇妙的款式……球球点了嗎喽SooSoo拿铁，说是玉米、牛奶、奶油和鲨鱼（鲨鱼？）拼配，没什么玉米味哈。球球朋友点了黑芝麻维也纳，呃，这个黑芝麻味很微妙，不太喜欢。鲨鱼，鲨鱼点了什么来着？不记得了，但是也不算很好喝是说……<br/>
-因为是傍晚才喝，又没吃饭，喝完饿得想吐，但还未到晚饭环节。<br/>
-  <p>
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/07/coffee.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/07/coffee3.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/07/coffee4.jpg" alt="" class="zoom-on-hover" />
-  </p>
-  <p>
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/07/coffee2.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/07/kasen2.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/07/Chogi.jpg" alt="" class="zoom-on-hover" />
-  </p>
+因为是傍晚才喝，又没吃饭，喝完饿得想吐，但还未到晚饭环节。
+<div class="img-row">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/07/coffee.jpg" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/07/coffee3.jpg" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/07/coffee4.jpg" alt="">
+</div>
+<div class="img-row">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/07/coffee2.jpg" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/07/kasen2.jpg" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/07/Chogi.jpg" alt="">
+</div>
 
 <div style="overflow: auto; margin-bottom: 1em;">
   <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/07/doudou3.jpg"
@@ -85,12 +85,12 @@ categories:
     </p>
 </div>
 球球抱兜兜的时候，兜兜从她肩上给了小鲨一巴掌。<br/>
-小鲨：打我？关我乜嘢事啊？！<br/>
-  <p>
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/07/doudou.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/07/doudou4.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/07/doudou2.jpg" alt="" class="zoom-on-hover" />
-  </p>
+小鲨：打我？关我乜嘢事啊？！
+<div class="img-row">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/07/doudou.jpg" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/07/doudou4.jpg" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/07/doudou2.jpg" alt="">
+</div>
 
 喂药环节结束，又磨蹭一会，大家一起去觅食，去了老牌粉店溢香园。虽然颇受好评，但鲨鱼不太喜欢它家，因为它家在粉里加的青菜永远是苦苦的芥菜！本来就想吐，吃完芥菜更想吐了。恨芥菜……<br/>
 后面环节还去喝了糖水，因为太晚，鲨鱼困得失去神智，后面不太记得了……<br/>
@@ -200,20 +200,20 @@ categories:
 夏天巴布掉好多毛，鲨鱼拿着梳子狂梳。球把这些都塞给小鲨，说让小鲨做狗毛毡。<br/>
 谁，我吗?.Jpg<br/>
 你在对手工废物讲什么，发什么梦呢？
-  <p>
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/07/babu2.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/07/babu3.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/07/babu4.jpg" alt="" class="zoom-on-hover" />
-  </p>
-  <p>
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/07/babu.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/07/babu8.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/07/babu9.jpg" alt="" class="zoom-on-hover" />
-  </p>
-  <p>
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/07/babu5.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/07/babu6.jpg" alt="" class="zoom-on-hover" />
-  </p>
+<div class="img-row">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/07/babu2.jpg" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/07/babu3.jpg" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/07/babu4.jpg" alt="">
+</div>
+<div class="img-row">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/07/babu.jpg" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/07/babu8.jpg" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/07/babu9.jpg" alt="">
+</div>
+<div class="img-row">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/07/babu5.jpg" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/07/babu6.jpg" alt="">  
+</div>
 
 ## 吃吃喝喝<br/>
 快速分享一下近期吃饭。<br/>
@@ -221,11 +221,11 @@ categories:
 2.和球球、鸡蛋一起开车去人超多的侨港吃雪花冰。<br/>
 3.每日很热闹的早茶时间。<br/>
 4.没有图，球球在家点了买薯条。巴布狂乱想要捕食，鲨鱼坐在地上带着薯条狂乱地闪避，最后被巴布一扑摔倒地上。球在旁边狂笑，一味地拍照，鲨鱼尖叫：你有病啊你帮手啊！<br/>
-  <p>
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/07/M.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/07/ice.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/07/tea.jpg" alt="" class="zoom-on-hover" />
-  </p>
+<div class="img-row">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/07/M.jpg" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/07/ice.jpg" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/07/tea.jpg" alt="">
+</div>
 
 ## 游泳<br/>
 <font size=3 color=#4d1f00>**室内也暴雨**</font><br/>
@@ -244,15 +244,17 @@ categories:
 讨厌一些在慢速泳道进行快速自由泳、霸凌休闲玩家的人！！<br/>
 
 ## 请吃蛋糕<br/>
-![](https://sharkbase.oss-cn-beijing.aliyuncs.com/25/07/satobirth.png)
+<div class="img-row">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/07/satobirth.png" alt=""> 
+</div>
 比起往年，好像今年七月真不一样了。<br/>
 小时候觉得七月是每年最特别的，世界因为有鲨鱼此等高傲小鱼的存在而不同了；长大点想，太好了这个月能收礼物，可以一天和朋友无所事事呆在一起；最近几年又改了想法，撑住一年份的关心和爱在这个月都能收集到；到今年，鲨差点忘记它，这个日期反而变成了同人活动的DDL。<br/>
 反而朋友在不断提醒鲨：“天哪，我礼物赶不及你生日了！”或者“诶哟礼物提前到了！”。当天朋友一早发来祝贺消息，鲨鱼睡到天光大亮，眯着眼看手机：哇塞，今日大寿啊（不是）。<br/>
 这天最大的思考：是不是该把没什么热情更新的博客捡起来。从草稿里面找出一篇拖了很久的文章就上传了。嗯，后来的补课更新频率就此变高，还算让自己满意了。<br/>
 总之，煮老师的礼物赶在晚餐前到达。取了快递和球球一块去吃饭吃蛋糕，晚上调酒，终于用上了几年前球球送的这对萌萌杯子。<br/>
 好，请大家一起吃蛋糕！
-  <p>
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/07/birth.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/07/birth3.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/07/birth2.jpg" alt="" class="zoom-on-hover" />
-  </p>
+<div class="img-row">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/07/birth.jpg" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/07/birth3.jpg" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/07/birth2.jpg" alt="">
+</div>

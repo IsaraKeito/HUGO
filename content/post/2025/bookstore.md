@@ -72,17 +72,16 @@ DJ哥问小鲨有什么想法吗。小鲨震撼，看之前也没说还要交感
 
 另外还鼓起勇气去咖啡店社交了，因为她们的外景盆栽很好看，是拍照好地方。对方说外面可以随意拍照，但还是……很吓人。<br/>
 
-请看照片！<br/>
-<div class="post-content">
-  <p>
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/book/4/cafe.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/book/4/cafe (2).jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/book/4/cafe3.jpg" alt="" class="zoom-on-hover" />
-  </p>
-  <p>
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/book/4/cafe4.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/book/4/cafe5.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/book/4/cafe6.jpg" alt="" class="zoom-on-hover" />
+请看照片！
+<div class="img-row">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/book/4/cafe.jpg" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/book/4/cafe (2).jpg" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/book/4/cafe3.jpg" alt="">
+</div>
+<div class="img-row">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/book/4/cafe4.jpg" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/book/4/cafe5.jpg" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/book/4/cafe6.jpg" alt="">
 </div>
 
 <font size=3 color=#4d1f00>**停电大事件！**</font><br/>
@@ -117,17 +116,15 @@ DJ哥问小鲨有什么想法吗。小鲨震撼，看之前也没说还要交感
 哼哼，虽然重述不成功，但是当时工得很成功呀，姐姐大气带走两张CD快乐离开的时候，感觉自己真是特别厉害的鲨鱼！<br/>
 
 <font size=3 color=#4d1f00>**工作之又去海边拍拍**</font><br/>
-<div class="post-content">
-  <p>
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/book/4/beach1.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/book/4/beach2.jpg" alt="" class="zoom-on-hover" />
-  </p>
-  <p>
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/book/4/beach3.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/book/4/beach4.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/book/4/beach5.jpg" alt="" class="zoom-on-hover" />
+<div class="img-row">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/book/4/beach1.jpg" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/book/4/beach2.jpg" alt="">  
 </div>
-
+<div class="img-row">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/book/4/beach3.jpg" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/book/4/beach4.jpg" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/book/4/beach5.jpg" alt="">
+</div>
 
 ## 结束啦，交接工作<br/>
 <div style="overflow: auto; margin-bottom: 1em;">

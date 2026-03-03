@@ -294,25 +294,24 @@ BUT，很不喜欢结尾。要做就做得干脆点，<span class="shady">突然
 <font size=3 color=#4d1f00>**摄影师交作业环节**</font><br/>
 最后请大家欣赏大咪小咪！<br/>
 可能无人想分辨但，小咪看起来很是命苦，大咪看上去非常清纯无辜。好啦，请看！
-  <p>
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/DM1.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/DM2.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/DM3.jpg" alt="" class="zoom-on-hover" />
-  </p>
-  <p>
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/SM2.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/SM3.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/SM4.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/SM5.jpg" alt="" class="zoom-on-hover" />
-  </p>
-  <p>
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/SM6.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/SM7.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/SM8.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/SM9.jpg" alt="" class="zoom-on-hover" />
-  </p>
+<div class="img-row">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/DM1.jpg" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/DM2.jpg" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/DM3.jpg" alt="">
+</div>
+<div class="img-row">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/SM2.jpg" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/SM3.jpg" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/SM4.jpg" alt="">
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/SM5.jpg" alt="">  
 
-
+</div>
+<div class="img-row">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/SM6.jpg" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/SM7.jpg" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/SM8.jpg" alt="">
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/SM9.jpg" alt="">  
+</div>
 
 ## 八月的书店DLC<br/>
 回到上一趴，在吃老友粉的那天，和球球去了灵感书店。<br/>
@@ -323,18 +322,18 @@ BUT，很不喜欢结尾。要做就做得干脆点，<span class="shady">突然
 吧台的背后是圆子的画，鲨站在外面和里面做饮料的圆子社交（硬撑中），总觉得不社交就跑去自己逛自己的，有点不太礼貌。四五个来回下来，小鲨完全没有话题可以聊了，尴尬得有点想死。<br/>
 找了个借口去和球球一起翻唱片——之前翻到得零轨Tio CD还在这里！寄存区有个人好像特别喜欢宇多田光，存了好多张她的黑胶在这里。还翻到了一张舟的黑胶，因为也是寄存，没好意思喊圆子放，虽然人家寄存在这就是可以共享的。<br/>
 转了一圈，发现很多快闪店的东西都加入进来，看到还是觉得很开心——那可都是小鲨一点一点布置出来的呀！
-  <p>
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/bookstore1.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/bookstore3.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/bookstore4.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/bookstore5.jpg" alt="" class="zoom-on-hover" />
-  </p>
-  <p>
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/bookstore6.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/bookstore7.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/bookstore9.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/bookstore10.jpg" alt="" class="zoom-on-hover" />
-  </p>
+<div class="img-row">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/bookstore1.jpg" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/bookstore3.jpg" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/bookstore4.jpg" alt="">
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/bookstore5.jpg" alt="">  
+</div>
+<div class="img-row">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/bookstore6.jpg" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/bookstore7.jpg" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/bookstore9.jpg" alt="">
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/bookstore10.jpg" alt="">  
+</div>
 
 <font size=3 color=#4d1f00>**是礼物，是礼物！**</font><br/>
 在二楼逛了一会，听到店长他们回来了，继续下去社交（死死硬撑中）。<br/>
@@ -359,11 +358,12 @@ BUT，很不喜欢结尾。要做就做得干脆点，<span class="shady">突然
 你就这么看也行啦！
 {{< /chat >}}
 又塞了一套书店明信片给小鲨，这份是送给同行的球球。嘿嘿，个个有份！
-  <p>
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/gift.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/gift3.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/gift2.jpg" alt="" class="zoom-on-hover" />
-  </p> 
+<div class="img-row">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/gift.jpg" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/gift3.jpg" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/gift2.jpg" alt="">
+</div>
+
 <font size=3 color=#4d1f00>**员工饮料自助**</font><br/>
 
 小鲨之前已经点了饮料，店长又问还要不要喝点别的，小鲨慌乱拒绝，点过了点过了！<br/>
@@ -433,11 +433,12 @@ BUT，很不喜欢结尾。要做就做得干脆点，<span class="shady">突然
 一个下午三四个顾客想靠近小聆，被小聆骂走。<br/>
 小青虫：抱歉抱歉，她爸爸今天没带她出去玩，她心情不好。<br/>
 球球后来下来想摸摸，被小聆瞪了。她问小鲨摸到没有，小鲨点头，还好那时候店长在，小聆乖乖被摸诶哟可爱宝宝！
-  <p>
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/xiaoling.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/coffee.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/bookstore12.jpg" alt="" class="zoom-on-hover" />
-  </p>
+<div class="img-row">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/xiaoling.jpg" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/coffee.jpg" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/bookstore12.jpg" alt="">
+</div>
+
 <font size=3 color=#4d1f00>**星露谷临时小组**</font><br/>
 小青虫、圆子和鲨又在吧台这边聊很多，聊着聊着小青虫拿出电脑。<br/>
 {{< chat position="right" name="鲨" >}}
@@ -496,13 +497,12 @@ BUT，很不喜欢结尾。要做就做得干脆点，<span class="shady">突然
 {{< chat position="left" name="小青虫" >}}
 我开玩笑的！！！！
 {{< /chat >}}
-  <p>
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/bookstore2.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/bookstore13.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/bookstore11.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/manga.jpg" alt="" class="zoom-on-hover" />
-  </p>
-
+<div class="img-row">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/bookstore2.jpg" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/bookstore13.jpg" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/bookstore11.jpg" alt="">
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/manga.jpg" alt="">  
+</div>
 
 ## 歌仙时间<br/>
 </p>
@@ -519,14 +519,13 @@ BUT，很不喜欢结尾。要做就做得干脆点，<span class="shady">突然
 </div>
 
 好了本趴最后塞点歌仙散步成果图！
-  <p>
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/kasen1.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/kasen2.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/kasen3.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/kasen4.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/kasen5.jpg" alt="" class="zoom-on-hover" />
-  </p>
-
+<div class="img-row">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/kasen1.jpg" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/kasen2.jpg" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/kasen3.jpg" alt="">
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/kasen4.jpg" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/kasen5.jpg" alt="">  
+</div>
 ## 巴布环节<br/>
 狗还是什么都想吃。<br/>
 凉皮店带回来的热狗，一人一根，小狗就站在球球和鲨鱼中间，左看右看，努力端坐成一只渴望食物的乖狗狗，但最后还是一口没得吃。<br/>
@@ -536,13 +535,13 @@ BUT，很不喜欢结尾。要做就做得干脆点，<span class="shady">突然
 最后：小鲨在鸡蛋家当猫猫幼师期间，三丽鸥歌仙到了，球球取回来，巴布好像是最兴奋的。<br/>
 很神奇，它对鲨鱼的本歌并不感兴趣，但是不管是哪个歌仙，巴布都超级、无敌、第一热情。<br/>
 喂，不许啃歌仙！
-  <p>
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/BABU1.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/BABU2.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/BABU3.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/BABU4.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/BABU5.jpg" alt="" class="zoom-on-hover" />
-  </p>
+<div class="img-row">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/BABU1.jpg" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/BABU2.jpg" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/BABU3.jpg" alt="">
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/BABU4.jpg" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/BABU5.jpg" alt="">  
+</div>
 
 ## 拣点生活碎片
 <font size=3 color=#4d1f00>**港澳通行证**</font><br/>
@@ -571,11 +570,12 @@ BUT，很不喜欢结尾。要做就做得干脆点，<span class="shady">突然
 
 <font size=3 color=#4d1f00>**好用物品**</font><br/>
 简单分享一下最近爱用的小东西！
-  <p>
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/joinfit.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/icetray.jpg" alt="" class="zoom-on-hover" />
-    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/water.jpg" alt="" class="zoom-on-hover" />
-  </p>
+<div class="img-row">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/joinfit.jpg" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/icetray.jpg" alt="">  
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/25/08/water.jpg" alt="">
+</div>
+
 第一个是筋膜球。鲨腰痛但是滚泡沫轴又有点太痛，决定购入小小便携筋膜球。<br/>
 好像有些博主用有突起的那种筋膜球，不过小鲨的球面是比较光滑，还是很漂亮的淡绿色，很可爱，所以没事也很愿意摸摸它！<br/>
 后来发现最爱用的场合是躺在床上的时候，在背后塞入一个筋膜球，小鲨就这样在床上狂乱地蠕动……<br/>
