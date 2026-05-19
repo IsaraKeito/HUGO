@@ -55,7 +55,7 @@ categories:
 小鲨：我会，这个我会！<br/>
 沉着地屈肘，蓄力，梆一下在感应锁上，好痛，但脸上淡淡地：好了。<br/>
 阿姨扫了一下，果然开了！<br/>
-请叫鲨鱼为开锁大师！<br/>
+请称鲨鱼为开锁大师！<br/>
 
 <font size=3 color=#4d1f00>**此处有请皮蛋，有氧拳击最严厉的教练。**</font><br/>
 <div>
@@ -72,6 +72,7 @@ categories:
 
 <br/>
 <br/>
+
 <font size=3 color=#4d1f00>**睡觉**</font><br/>
 简言之，3月大半个月作息还是比较规律的晚23点早6点，朋友来本地旅游突然破坏这个时间表后，就有些难以维持了。<br/>
 不过最后还是能够保持这种习惯到4月，4月就有点小混乱中混乱大混乱，但不变的是傍晚都会睡30分钟到1个半钟进行一个续命。<br/>
@@ -216,7 +217,7 @@ categories:
     <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/26/03/day238.jpg" alt=""   />
     <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/26/03/day231.jpg" alt=""   />
 </div>
-
+![alt text](image.png)
 爬上最高处的展厅发现这里没有值得看的东西，转一圈出来在外面拍照，路过的保安提议，你们可以去对面文昌塔玩啊。我们不解，那边不就是个塔吗？保安摇了摇头，非常认真地答复，你们可以在下面放风筝。<br/>
 然后我们在文昌塔下买了一个风筝。<br/>鲨鱼不会放风筝，小熊震撼，鲨鱼振振有词：我不是户外型的！<br/>
 不会放风筝也很好，这样就可以在小熊跑来跑去放风筝的时候，坐在草地上放空，放空……<br/>
@@ -289,7 +290,7 @@ categories:
 <div>
   <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/26/03/shagua.jpg" style="float:left !important; width:35%; margin-right:1em;">
   <p style="clear:none;">
-  原来霸王茶姬也有自绘贴纸。<br/>小鲨非常努力地画了一个多钟，终于接受了自己不会画画的事实。<br/>
+  原来霸王茶姬也有自绘贴纸。<br/>小鲨努力地画了一个多钟，终于接受了自己不会画画的事实。<br/>
   总之，画了！<br/>
   去拿奶茶，店员问小鲨：你这个画的是什么呀？<br/>
   小鲨：是一只鲨鱼和一个南瓜。<br/>
