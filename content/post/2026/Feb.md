@@ -310,7 +310,7 @@ P.S. 书店新增了几个柜子，是之前店长在附近捡垃圾捡回来的
     <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/26/02/b11.jpg" alt=""   />
 </div>
 
-<font size=3 color=#4d1f00>**小斗斗专栏**</font><br/>
+<font size=3 color=#4d1f00>**小抖抖专栏**</font><br/>
 去看球朋友w的小狗。<br/>
 一开门，脚边就是一个棕色不明飞行物音速窜出，被一只手敏捷抓住红色布料，给大伙表演了一个狂乱的空气游泳。<br/>
 大家终于看清不明飞行物的样子，原来是棕色的，小狗。<br/>
