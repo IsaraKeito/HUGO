@@ -23,7 +23,10 @@ categories:
 这个月进影院次数大大上升！<br/>
 {{< neodb "https://neodb.social/movie/7DVlXutHlDWlgUC8dQz1Kd" >}}球对今年马里奥大电影就是无敌期待，一直在看新预告片，反复看，晚上准备睡了还听见她亮着手机在那边“Yoshi~”。<br/>鲨：我怕它把全部好看都放预告片了。<br/>球：可是上一部这么好看！<br/>开分当天她刷到了电影低分的新闻，感觉天塌了：我看了这么多预告！不会真的把精髓都看完了吧！<br/>鲨：哈哈哈哈那我去影院至少还有得看！<br/>
 后来发现确实如此，比1的质量和诚意都下降很多，只觉得被敷衍了，且高潮一口气上不来，大家还在期待来个大的，电影却开始放演职员表了。<br/>不过这个片尾的制作倒有点意思，至少比正片好看，感谢酷霸王手偶小剧场。{{< /neodb >}}
-![请看小鲨为球球代购的耀西玩具！](https://sharkbase.oss-cn-beijing.aliyuncs.com/26/04/yoshi.jpg)
+请看小鲨为球球代购的耀西玩具！<br/>
+<div class="img-row">
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/26/04/yoshi.jpg" alt=""   />
+</div>
 {{< neodb "https://neodb.social/movie/1VD39fiTz0l6Fr8ooU6xxU" >}}你们就这样爱恨纠葛吧，觉得房间墙壁那段感官真是哇塞了！<br/>唯独觉得每次pop music非常出戏，非常像《家弑服务》。{{< /neodb >}}
 {{< neodb "https://neodb.social/movie/6sR2eMjj9jv4pErVg9kx1d" >}}又是这个哥哥弟弟，好吃。{{< /neodb >}}
 {{< neodb "https://neodb.social/movie/7dQZGt1LLtV4oGC8OjL8Bm" >}}一部没看过但是曲子全听过的电影。早听说它剧情不行，所以纯听歌去了。<br/>男主决定和歌唱家一起走的时候，客厅响起鲨鱼、球球和鸡蛋愤怒的叫声。{{< /neodb >}}
@@ -32,7 +35,9 @@ categories:
 {{< neodb "https://neodb.social/movie/5eDOMrwMkqIW6rgZeeoTO7" >}}拖了很久，直到本市快不排片了才着急去看，一查票发现最近的影院只给《情感价值》排情侣厅。情侣厅……天啊谁情侣约会会去看这个啊！<br/>很喜欢这部细腻的感情，但是为什么爹又有年轻靓丽女星做知心人，又有老友不计前嫌与他再携手，最后还能有女儿和解圆梦！凭啥！这集让我来演可以吗？虽说讨厌这样的发展，但是并不讨厌那些感受。<br/>非常喜欢妮娜上台“Oi——”的那处，慢慢充大了一个气球，然后爆炸，这口气特别特别爽啊！第二次舞台明明很期待更有力、更上一层的，但那口气泄下去了，好失望……难道被父亲“看见”就可以抗衡这种舞台的恐惧吗？我对此保持怀疑。<br/>电影中有一个小诡计，是一开始引导观众认为这个剧本是父亲的回忆，但后面妹妹说里面是有你的，才让观众把独白和姐姐联系起来。确实有她，确实为她，但所谓“他好像在现场一样”，又让人觉得这其实还是属于他的东西。有些东西自母亲流向他，又汇聚在妮娜身上，这是代际创伤（不是）。{{< /neodb >}}
 {{< neodb "https://neodb.social/movie/13gOns04M0klMYq26iNYqr" >}}好看好看好看，喜欢喜欢喜欢！<br/>在影院度过了非常舒适的一百四十多分钟，就是那种，完全放松专注地进入一个世界，慢慢呼吸，好爽，这种体验上一次还是在《记忆》。<br/>根本不想离开，鲨鱼还可以坐一百四十多分钟！<br/>Silent friend怎么没出官方ost吗，都是自建歌单，急急急急，有一个配乐特别喜欢但是又找不到是什么，急死了！<br/>{{< /neodb >}}
 请看人家拿到的铅笔！后面还想捡漏一下国内海报的，但是再去影院的时候只剩下国际海报了……好可惜。<br/>
-![](https://sharkbase.oss-cn-beijing.aliyuncs.com/26/04/silentfriend.jpg)
+<div class="img-row">
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/26/04/silentfriend.jpg" alt=""   />
+</div>
 {{< neodb "https://neodb.social/movie/0p2zNbJGVlkmWckcdSLhRL" >}}为了透明大海报，人家来二刷了！<br/>后来发现根本发不完，可以入群领取……<br/>算了，算了。{{< /neodb >}}
 
 
