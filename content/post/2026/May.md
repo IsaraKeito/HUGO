@@ -18,7 +18,19 @@ categories:
 {{< neodb "https://neodb.social/book/5re7yoaDPZzlNzfwDhXj3X" >}}书展随手一翻。{{< /neodb >}}
 {{< neodb "https://neodb.social/book/2YbB8JRU83DOSnpSamZ8eS" >}}同上。<br/>这本和之前看过的《一滴雨》是同样的长长薄薄一本，非常适配高高瘦瘦仙人掌形象，很可爱。{{< /neodb >}}
 {{< neodb "https://neodb.social/book/1NeRSowL1GE0UdG9Upz5hY" >}}其实对这本书没有很大好奇心，但巧合是正好在听《“中式梦核”到底是什么？》，于是捡起来翻了。它展台上的留言簿也非常符合之前听到节目嘉宾的描述，觉得嘉宾把“梦核”和“中式梦核”这个概念讲得很清楚，这样的偶遇真的很有趣。{{< /neodb >}}
-{{< imgloop "https://sharkbase.oss-cn-beijing.aliyuncs.com/26/05/book10.jpg,https://sharkbase.oss-cn-beijing.aliyuncs.com/26/05/book3.jpg,https://sharkbase.oss-cn-beijing.aliyuncs.com/26/05/book4.jpg,https://sharkbase.oss-cn-beijing.aliyuncs.com/26/05/book5.jpg,https://sharkbase.oss-cn-beijing.aliyuncs.com/26/05/book6.jpg,https://sharkbase.oss-cn-beijing.aliyuncs.com/26/05/book7.jpg" >}}
+<div class="img-row">
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/26/05/book10.jpg" alt=""   />
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/26/05/book3.jpg" alt=""   />
+</div>
+<div class="img-row">
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/26/05/book4.jpg" alt=""   />
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/26/05/book5.jpg" alt=""   />
+</div>
+<div class="img-row">
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/26/05/book6.jpg" alt=""   />
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/26/05/book7.jpg" alt=""   />
+</div>
+
 {{< neodb "https://neodb.social/book/7835ndiKK7mwbw75HuQgD2" >}}书架上展示了用缎带串起的几张封面废片，特别美丽，正是实体书上的漂亮缎带吸引了鲨鱼。<br/>因为时间原因没能细翻，只是根据编推去看了后记，看完确实更好奇这本书了。{{< /neodb >}}
 <div class="img-row">
     <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/26/05/book1.jpg" alt=""   />
@@ -56,8 +68,30 @@ categories:
 **2. 逛书展<br/>**
 起床吃完午饭去了球球感兴趣的书展，是漓江书院引进的“偏心·100位编辑的年度之书”特展。<br/>去到鲨鱼已经有点体力耗尽了，但是走到展台前还是忍不住一本本翻过去，编推语写得好真诚，因此对很多平常看书名和装帧不一定感兴趣的书都产生了好奇心——翻翻看看吧，结果当然是又增加了很多想看书。<br/>看到了很多有趣的展览互动，以及一些用瓦楞纸或者废材料做出来的小设计小布置都特别可爱（尤其是一个贴在墙角的身高测量贴，是上面提到的《仙人掌想要一个拥抱》的仙人掌！）。<br/>要说缺点问题就是很难找位置，以及因为连通露天下沉广场的篮球区，所以场馆里一直非常吵闹，非常影响翻书……<br/>
 ![](https://sharkbase.oss-cn-beijing.aliyuncs.com/26/05/book8.jpg)
-{{< imgloop "https://sharkbase.oss-cn-beijing.aliyuncs.com/26/05/book9.jpg,https://sharkbase.oss-cn-beijing.aliyuncs.com/26/05/book11.jpg,https://sharkbase.oss-cn-beijing.aliyuncs.com/26/05/book12.jpg,https://sharkbase.oss-cn-beijing.aliyuncs.com/26/05/book13.jpg,https://sharkbase.oss-cn-beijing.aliyuncs.com/26/05/book14.jpg,https://sharkbase.oss-cn-beijing.aliyuncs.com/26/05/book15.jpg" >}}
-{{< imgloop "https://sharkbase.oss-cn-beijing.aliyuncs.com/26/05/book16.jpg,https://sharkbase.oss-cn-beijing.aliyuncs.com/26/05/book17.jpg,https://sharkbase.oss-cn-beijing.aliyuncs.com/26/05/book18.jpg,https://sharkbase.oss-cn-beijing.aliyuncs.com/26/05/book19.jpg,https://sharkbase.oss-cn-beijing.aliyuncs.com/26/05/book20.jpg,https://sharkbase.oss-cn-beijing.aliyuncs.com/26/05/book21.jpg" >}}
+<div class="img-row">
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/26/05/book9.jpg" alt=""   />
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/26/05/book11.jpg" alt=""   />
+</div>
+<div class="img-row">
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/26/05/book12.jpg" alt=""   />
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/26/05/book13.jpg" alt=""   />
+</div>
+<div class="img-row">
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/26/05/book14.jpg" alt=""   />
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/26/05/book15.jpg" alt=""   />
+</div>
+<div class="img-row">
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/26/05/book16.jpg" alt=""   />
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/26/05/book17.jpg" alt=""   />
+</div>
+<div class="img-row">
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/26/05/book18.jpg" alt=""   />
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/26/05/book19.jpg" alt=""   />
+</div>
+<div class="img-row">
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/26/05/book20.jpg" alt=""   />
+    <img src="https://sharkbase.oss-cn-beijing.aliyuncs.com/26/05/book21.jpg" alt=""   />
+</div>
 
 **3. 实用品<br/>**
 晚上去吃龙上水，人又排到了大门口。<br/>排队发呆听到后面的游客对同伴说：广西的餐具好质朴实用，感觉可以用一辈子！转头一看，原来是在说不锈钢碗筷调羹。<br/>

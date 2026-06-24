@@ -24,7 +24,7 @@ categories:
 {{< neodb "https://neodb.social/movie/0Cd1e7l6K9IIfz3g7Y2NFO" >}}感想是……忘了，过。{{< /neodb >}}
 
 ## 游戏<br/>
-{{< neodb "https://neodb.social/game/0RZgWVrVIHzp9rO6FRyLvn" >}}朋友抽奖中的，想转移注意力玩一下，但是感觉效果不大，先放置。{{< /neodb >}}
+{{< neodb "https://neodb.social/game/0RZgWVrVIHzp9rO6FRyLvn" >}}抽奖中的，想转移注意力玩一下，但是感觉效果不大，先放置。{{< /neodb >}}
 
 ## 日常<br/>
 
@@ -35,7 +35,7 @@ categories:
 噢发现五月六月一直在做家务，一直在搞卫生，一直在买家电和一些乱七八糟的玩意，做不完的家务搞不完的卫生。<br/>
 懒得写了引用一下崩溃拖地瞬间：<br/>
 {{< notice notice-warning >}}
-这个新家比现在的还小一半呢但是第一次拖地花了整整一个小时啊！！有一大半时间都是在地上爬来爬去拖。
+这个新家比现在的还小一半呢但是第一次拖地花了整整一个小时啊！！有一大半时间都是在地上爬来爬去。
 {{< /notice >}}
 {{< notice notice-warning >}}
 而且这个瓷砖天啊太恐怖了，从此恨上所谓耐脏花色，还是喜欢大理石白色，拖没拖干净一目了然。今天还有一半时间在于：这块砖我拖过吗？拖干净了吗？怎么逆光也看不到水渍？？？？
