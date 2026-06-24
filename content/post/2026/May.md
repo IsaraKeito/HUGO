@@ -3,7 +3,7 @@ title: Monthly May. | 持续低电
 description: 生活千疮百孔，好透气。
 date: 2026-06-25T00:25:00+08:00
 image: https://sharkbase.oss-cn-beijing.aliyuncs.com/26/05/top.jpg
-hidden: false
+hidden: true
 comments: true
 draft: false
 tags:
