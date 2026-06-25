@@ -3,7 +3,7 @@ title: 图书馆大思考
 description: 大脑，你真让我失望。
 date: 2026-04-14T10:01:00+08:00
 image: 
-hidden: false
+hidden: true
 comments: true
 draft: false
 tags:
