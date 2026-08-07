@@ -1,7 +1,7 @@
 ---
 title: Monthly Jul. | 来吧鲨鱼，拿起笔来！
 description: “算法和猫正在不择手段地抢夺你的注意力。”
-date: 2026-08-7T17:40:00+08:00
+date: 2026-08-07T17:40:00+08:00
 image: https://sharkbase.oss-cn-beijing.aliyuncs.com/26/07/top.jpg
 hidden: false
 comments: true
