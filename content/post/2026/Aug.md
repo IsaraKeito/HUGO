@@ -1,6 +1,6 @@
 ---
 title: Monthly Aug. | 地球一直旋转
-description: “家里蹲是什么，是种病吗？”
+description: “Why get out and push?”
 date: 2026-09-02T12:00:00+08:00
 image: https://sharkbase.oss-cn-beijing.aliyuncs.com/26/08/top.jpg
 hidden: false
